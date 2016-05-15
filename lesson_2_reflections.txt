@@ -20,9 +20,10 @@ manually?
 What happens when you initialize a repository? Why do you need to do it?
 
 
-How is the staging area different from the working directory and the 
+How is the staging area different from the working directory and the
 
 vdvffb  fccgdf
+ronen
 
 
 repository? What value do you think it offers?
