@@ -24,6 +24,7 @@ How is the staging area different from the working directory and the
 
 vdvffb  fccgdf
 ronen
+huhu
 
 
 repository? What value do you think it offers?
